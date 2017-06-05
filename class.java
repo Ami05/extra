@@ -9,6 +9,7 @@ class imp{
 public static void main(String[] args ){
 
 	use data = new use();
+	System.out.println("-----------------------------------------------------");
 	System.out.println(data.id);
 	System.out.println(data.name);
 
