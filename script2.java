@@ -1,8 +1,9 @@
 class script2{
-
-public static void main(String[] args ){
-	System.out.println("-----------------------------------------------------");
-	System.out.println("GIT INTEGRATION WITH JENKINS");
-	System.out.println("-----------------------------------------------------");
-	}
+ 
+    public static void main(String a[]){
+        System.out.println("---------------------");
+        System.out.println("SAMPLE is executed");
+	System.out.println("---------------------");
+	System.out.println("---------------------");	
+    }
 }
