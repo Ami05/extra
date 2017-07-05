@@ -1,1 +1,1 @@
-javac script3.java
+javac script2.java
