@@ -1,1 +1,1 @@
-java script3
+javac script3.java
