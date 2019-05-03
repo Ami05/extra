@@ -1,9 +1,3 @@
 mmdfsdfsdf
-
-done done
-
-<<<<<<< HEAD
 ni karunga changes
-=======
-changes changes
->>>>>>> 874f3da85d64ddba5aff0eefde020594dc72a464
+done done
