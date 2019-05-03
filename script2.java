@@ -4,6 +4,6 @@ class script2{
         System.out.println("---------------------");
         System.out.println("SAMPLE is executed");
 	System.out.println("---------------------");
-	System.out.println("---------------------");	
+	System.out.println("---------change------------");	
     }
 }
